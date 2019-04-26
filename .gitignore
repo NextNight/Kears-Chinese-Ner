@@ -1,0 +1,4 @@
+.idea
+./model/*
+./logs/*
+./logs_sfm/*
